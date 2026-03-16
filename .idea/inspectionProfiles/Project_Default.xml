@@ -1,0 +1,60 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="LanguageDetectionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="mysqlclient" />
+          <option value="APScheduler" />
+          <option value="asgiref" />
+          <option value="asn1crypto" />
+          <option value="bcrypt" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="chardet" />
+          <option value="charset-normalizer" />
+          <option value="configobj" />
+          <option value="configparser" />
+          <option value="contextlib2" />
+          <option value="cryptography" />
+          <option value="defusedxml" />
+          <option value="Django" />
+          <option value="django-allauth" />
+          <option value="django-cors-headers" />
+          <option value="django-rest-auth" />
+          <option value="djangorestframework" />
+          <option value="djangorestframework-jwt" />
+          <option value="dnspython" />
+          <option value="enum34" />
+          <option value="filelock" />
+          <option value="idna" />
+          <option value="ipaddress" />
+          <option value="oauthlib" />
+          <option value="paramiko" />
+          <option value="pathlib2" />
+          <option value="pexpect" />
+          <option value="ptyprocess" />
+          <option value="pyasn1" />
+          <option value="pycparser" />
+          <option value="PyJWT" />
+          <option value="PyMySQL" />
+          <option value="PyNaCl" />
+          <option value="python3-openid" />
+          <option value="pytz" />
+          <option value="pyxdg" />
+          <option value="requests" />
+          <option value="requests-oauthlib" />
+          <option value="scandir" />
+          <option value="six" />
+          <option value="sqlparse" />
+          <option value="typing" />
+          <option value="typing_extensions" />
+          <option value="tzlocal" />
+          <option value="urllib3" />
+          <option value="zipp" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
