@@ -37,7 +37,7 @@ The analysis includes:
 - Missing values inspection
 - Class imbalance identification
 
-All visualizations and analysis can be found in the notebook: 👉 [View EDA Notebook](notebooks/eda.ipynb)
+All visualizations and analysis can be found in the notebook:  → [View EDA Notebook](notebooks/eda.ipynb)
 
 This step was essential to:
 
@@ -206,9 +206,9 @@ This is a **baseline model**, and performance is affected by:
 
 ---
 
-## 👩‍💻 Author
+## ‍👩🏼‍💻 Author
 
-**Mônica Oliveira**
+**Oliveira Mônica**
 
 * 💻 Software Developer transitioning into AI/ML
 * ☕ Passionate about code and coffee
