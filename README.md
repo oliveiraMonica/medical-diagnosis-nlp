@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Flask](https://img.shields.io/badge/Flask-API-green)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![NLP](https://img.shields.io/badge/NLP-TFIDF-purple)
+
 # 🧠 Medical Diagnosis NLP API
 
 This project is a complete **Natural Language Processing (NLP) pipeline** for classifying clinical transcriptions into medical specialties.
